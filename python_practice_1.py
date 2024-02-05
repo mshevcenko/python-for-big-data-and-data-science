@@ -1,0 +1,1 @@
+print("Mykhailo Shevchenko, IPZ_Group_3")
